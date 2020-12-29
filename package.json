@@ -1,9 +1,21 @@
 {
   "name": "xfr",
   "bin": "xfr.sh",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Find and replace a term in all files of a directory",
-  "keywords": ["find", "replace", "find and replace", "bash", "cli", "tool", "sed", "project", "files", "subdirectories", "command"],
+  "keywords": [
+    "find",
+    "replace",
+    "find and replace",
+    "bash",
+    "cli",
+    "tool",
+    "sed",
+    "project",
+    "files",
+    "subdirectories",
+    "command"
+  ],
   "author": "Pablo Varela <pablo@pablopunk.com>",
   "license": "MIT",
   "repository": {
