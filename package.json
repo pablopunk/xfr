@@ -1,7 +1,7 @@
 {
   "name": "xfr",
   "bin": "xfr.sh",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Find and replace a term in all files of a directory",
   "keywords": [
     "find",
