@@ -20,4 +20,4 @@ else
   exit
 fi
 
-egrep -rl $repl $where | xargs -I@ sed -i '' "s/$term/$repl/g" @
+egrep -rl $term $where | xargs -I@ sed -i '' "s/$term/$repl/g" @
