@@ -1,4 +1,4 @@
-# Find and replace
+# Find and replace ![npm](https://img.shields.io/npm/dt/xfr)
 
 > Find and replace any term in all files of all subdirectories. The easy way
 
